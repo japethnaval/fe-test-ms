@@ -2,6 +2,9 @@
 
 Setting up and running the application
 
+### Pre-requisite
+- node version must be v18.20.6
+
 ### First we need to listen to the backend service
 
 1. cd front-end-code-challenge
